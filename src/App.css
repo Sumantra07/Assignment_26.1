@@ -21,6 +21,21 @@
 .App-link {
   color: #61dafb;
 }
+#highlight {
+background-image: none;  
+background-color: aqua;
+}
+#formdefault {
+  background-image: none;  
+  background-color: lightgray;
+}
+
+
+
+
+
+
+
 
 @keyframes App-logo-spin {
   from {
